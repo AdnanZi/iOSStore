@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmailPassword</key>
+	<string></string>
+	<key>EmailUsername</key>
+	<string>adnan.zildzic@gmail.com</string>
+	<key>EmailAddress</key>
+	<string>adnan.zildzic@gmail.com</string>
+	<key>MobileStoreHost</key>
+	<string>http://192.168.20.140:1250/</string>
+	<key>MobileStoreGetProductsEndpoint</key>
+	<string>api/products</string>
+	<key>MobileStoreGetProductByIdEndpoint</key>
+	<string>api/products/%ld</string>
+	<key>MobileStoreGetByCategoryEndpoint</key>
+	<string>api/products/category/%@</string>
+	<key>MobileStoreGetCategoriesEndpoint</key>
+	<string>api/products/categories</string>
+</dict>
+</plist>
